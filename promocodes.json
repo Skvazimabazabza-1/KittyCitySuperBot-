@@ -1,0 +1,23 @@
+{
+  "WELCOME2024": {
+    "reward": 50,
+    "limit": 100,
+    "used": 0,
+    "created": "2024-01-01T00:00:00",
+    "expires": "2024-12-31T23:59:59"
+  },
+  "KITTYLOVE": {
+    "reward": 30,
+    "limit": 500,
+    "used": 0,
+    "created": "2024-01-01T00:00:00",
+    "expires": "2024-06-30T23:59:59"
+  },
+  "FIRSTCAT": {
+    "reward": 20,
+    "limit": 1000,
+    "used": 0,
+    "created": "2024-01-01T00:00:00",
+    "expires": "2024-12-31T23:59:59"
+  }
+}
